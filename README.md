@@ -1,0 +1,2 @@
+# DAZN
+DAZN DRM Script
